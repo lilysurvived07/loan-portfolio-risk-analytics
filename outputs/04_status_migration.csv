@@ -1,0 +1,12 @@
+from_status,to_status,transitions,pct_of_origin
+30dpd,30dpd,162,5.88
+30dpd,60dpd,1114,40.42
+30dpd,current,1480,53.7
+60dpd,60dpd,170,13.64
+60dpd,90dpd,758,60.83
+60dpd,current,318,25.52
+90dpd,90dpd,347,32.95
+90dpd,charged_off,560,53.18
+90dpd,current,146,13.87
+current,30dpd,2575,1.52
+current,current,166448,98.48
